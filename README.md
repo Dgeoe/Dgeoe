@@ -34,7 +34,7 @@
 
 ###
 
-<p data-importer="text" align="left">21-year-old Irish game dev student 🎮<br><br>🧩 I love making puzzle games and creating fun, engaging experiences!<br><br>🚧 Currently working on my 4th-year final project and my personal project, Nonogram Maker.<br><br>🛠️ **Main tools:** C# & Unity  <br>🐍 **Also know:** Python, HTML & CSS  <br>🌱 Currently learning: GDScript & Godot  <br>🎯 Next up: Unreal Engine<br><br>Always learning, and excited to work on my next game!<br><br>If you want to know more you can view my porfolio below<br>or contact me at joedoshea15@gmail.com</p>
+<p data-importer="text" align="left">🧩 I love making puzzle games and creating fun, engaging experiences!<br><br>🚧 Currently working on my 4th-year final project and my personal project, Nonogram Maker.<br><br>🛠️ Main tools: C# & Unity  <br>🐍 Also know: Python, HTML & CSS  <br>🌱 Currently learning: GDScript & Godot  <br>🎯 Next up: Unreal Engine<br><br>Always learning, and excited to work on my next game!<br><br>If you want to know more you can view my porfolio below<br>or contact me at joedoshea15@gmail.com</p>
 
 ###
 
