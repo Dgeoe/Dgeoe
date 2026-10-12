@@ -32,11 +32,19 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
 
-<p data-importer="text" align="left">🧩 I love making puzzle games and creating fun, engaging experiences!<br><br>🚧 Currently working on my 4th-year final project and my personal project, Nonogram Maker.<br><br>🛠️ Main tools: C# & Unity  <br>🐍 Also know: Python, HTML & CSS  <br>🌱 Currently learning: GDScript & Godot  <br>🎯 Next up: Unreal Engine<br><br>Always learning, and excited to work on my next game!<br><br>If you want to know more you can view my porfolio below<br>or contact me at joedoshea15@gmail.com</p>
 
-###
+<p data-importer="text" align="left">
+🧩 I love making <strong>puzzle games</strong> and creating fun, engaging experiences!<br><br>
+🚧 Currently working on my <strong>4th-year final project</strong> and my personal project, <strong>Nonogram Maker</strong>.<br><br>
+🛠️ <strong>Main tools:</strong> C# & Unity<br>
+🐍 <strong>Also know:</strong> Python, HTML & CSS<br>
+🌱 <strong>Currently learning:</strong> GDScript & Godot<br>
+🎯 <strong>Next up:</strong> Unreal Engine<br><br>
+Always learning, and excited to work on my next game!<br><br>
+If you want to know more, you can view my <strong>portfolio</strong> below<br>
+or contact me at <strong>joedoshea15@gmail.com</strong>
+</p>
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/joe-do-shea/" target="_blank">
@@ -53,5 +61,6 @@
 ###
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Dgeoe&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dgeoe?theme=dark&font=Ramabhadra)
 
 ###
