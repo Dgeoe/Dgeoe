@@ -60,7 +60,7 @@ or contact me at <strong>joedoshea15@gmail.com</strong>
 
 ###
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Dgeoe&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dgeoe?theme=dark&font=Ramabhadra)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dgeoe&layout=compact&langs_count=5&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Dgeoe&layout=compact&langs_count=5&disable_animations=true&theme=dark)
 
 ###
